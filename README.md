@@ -45,7 +45,7 @@ This is the recommended installation option for developers who want to experienc
 
 1. Assign the **dreamhouse** permission set to the default user:
     ```
-    sfdx force:user:permset:assign -n dreamhouse
+    sfdx force:user:permset:assign -n Conference
     ```
 
 1. Open the scratch org:

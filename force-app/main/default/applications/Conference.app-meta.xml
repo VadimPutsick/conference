@@ -10,6 +10,8 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Conference</label>
     <navType>Standard</navType>
+    <tabs>Attendee__c</tabs>
+    <tabs>Booking__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Conference_UtilityBar</utilityBar>
 </CustomApplication>
