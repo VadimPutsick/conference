@@ -43,23 +43,22 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>An arrangement that made to have a hotel room for speakers.</description>
+    <description>A person who participates in a conference.</description>
     <enableActivities>true</enableActivities>
-    <enableBulkApi>false</enableBulkApi>
+    <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
-    <enableSearch>true</enableSearch>
-    <enableSharing>false</enableSharing>
-    <enableStreamingApi>false</enableStreamingApi>
-    <label>Booking</label>
+    <enableSearch>false</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <label>Attendee</label>
     <nameField>
-        <displayFormat>BK-{0000}</displayFormat>
-        <label>Booking Name</label>
-        <type>AutoNumber</type>
+        <label>Attendee Name</label>
+        <type>Text</type>
     </nameField>
-    <pluralLabel>Bookings</pluralLabel>
+    <pluralLabel>Attendees</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

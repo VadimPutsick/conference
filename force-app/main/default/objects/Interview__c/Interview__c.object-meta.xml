@@ -43,23 +43,23 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>An arrangement that made to have a hotel room for speakers.</description>
+    <description>An interview is a conversation beetwen speaker and interviewer to measure speakere knowledge.</description>
     <enableActivities>true</enableActivities>
-    <enableBulkApi>false</enableBulkApi>
+    <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
     <enableSearch>true</enableSearch>
-    <enableSharing>false</enableSharing>
-    <enableStreamingApi>false</enableStreamingApi>
-    <label>Booking</label>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <label>Interview</label>
     <nameField>
-        <displayFormat>BK-{0000}</displayFormat>
-        <label>Booking Name</label>
+        <displayFormat>IN-{0000}</displayFormat>
+        <label>Interview Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Bookings</pluralLabel>
+    <pluralLabel>Interviews</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
