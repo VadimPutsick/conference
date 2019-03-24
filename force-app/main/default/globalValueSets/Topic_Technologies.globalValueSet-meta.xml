@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Data</fullName>
+        <default>false</default>
+        <label>Data</label>
+    </customValue>
+    <customValue>
+        <fullName>Security</fullName>
+        <default>false</default>
+        <label>Security</label>
+    </customValue>
+    <customValue>
+        <fullName>Analyse</fullName>
+        <default>false</default>
+        <label>Analyse</label>
+    </customValue>
+    <customValue>
+        <fullName>Salesforce</fullName>
+        <default>false</default>
+        <label>Salesforce</label>
+    </customValue>
+    <customValue>
+        <fullName>Report</fullName>
+        <default>false</default>
+        <label>Report</label>
+    </customValue>
+    <customValue>
+        <fullName>Testing</fullName>
+        <default>false</default>
+        <label>Testing</label>
+    </customValue>
+    <customValue>
+        <fullName>QA</fullName>
+        <default>false</default>
+        <label>QA</label>
+    </customValue>
+    <customValue>
+        <fullName>Frond-end development</fullName>
+        <default>false</default>
+        <label>Frond-end development</label>
+    </customValue>
+    <customValue>
+        <fullName>Back-end devlopment</fullName>
+        <default>false</default>
+        <label>Back-end devlopment</label>
+    </customValue>
+    <masterLabel>Topic Technologies</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -35,7 +35,7 @@ This is the recommended installation option for developers who want to experienc
     sfdx force:source:push
     ```
 
-1. Assign the **dreamhouse** permission set to the default user:
+1. Assign the **conference** permission set to the default user:
     ```
     sfdx force:user:permset:assign -n Conference
     ```
@@ -45,7 +45,7 @@ This is the recommended installation option for developers who want to experienc
     sfdx force:org:open
     ```
 
-1. Select **DreamHouse** in the App Launcher
+1. Select **Coonference** in the App Launcher
 
 1. Click the **Data Import** tab and click **Initialize Sample Data**
 
