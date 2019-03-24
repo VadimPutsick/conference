@@ -5,7 +5,16 @@
         <default>true</default>
         <visible>false</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>InterviewersAssignment</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Attendee__c.Conference__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Booking__c.Cost__c</field>
@@ -154,6 +163,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Speaker__c.City__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Venue__c.Address__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>

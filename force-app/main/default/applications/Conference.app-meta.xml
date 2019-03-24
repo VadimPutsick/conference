@@ -12,6 +12,18 @@
     <navType>Standard</navType>
     <tabs>Attendee__c</tabs>
     <tabs>Booking__c</tabs>
+    <tabs>Speaker__c</tabs>
+    <tabs>Hotel__c</tabs>
+    <tabs>Interview_Interviewer__c</tabs>
+    <tabs>Interviewer__c</tabs>
+    <tabs>Interview__c</tabs>
+    <tabs>Review__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Venue__c</tabs>
+    <tabs>Speaker_Session__c</tabs>
+    <tabs>Session__c</tabs>
+    <tabs>Feedback__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Conference_UtilityBar</utilityBar>
 </CustomApplication>
