@@ -32,14 +32,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1553453127474,
-            "changeTime": 1553453127474,
-            "contentHash": "42d87e65244757063a5c8f757fb641bc8c8b9c59",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1553529160475,
+            "changeTime": 1553529160475,
+            "contentHash": "e79d4d4e9c53d77a046998b5caac3f6aba670b29"
         }
     ],
     [
@@ -376,14 +376,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\objects\\Interview__c\\Interview__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\objects\\Interview__c\\Interview__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2243,
-            "modifiedTime": 1553342852638,
-            "changeTime": 1553342852638,
-            "contentHash": "1b623f729d3d171dcb858b9fd94b911c53a524bd",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 2487,
+            "modifiedTime": 1553529160233,
+            "changeTime": 1553529160233,
+            "contentHash": "a8dfd66ff58d83cc03ec879d9ea98507be91ad31"
         }
     ],
     [
@@ -714,14 +714,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\applications\\Conference.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\applications\\Conference.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1085,
             "modifiedTime": 1553453398087,
             "changeTime": 1553453398087,
-            "contentHash": "ea2e69b1b3083e7ccf8406f2776876a7124753be"
+            "contentHash": "ea2e69b1b3083e7ccf8406f2776876a7124753be",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -779,14 +779,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\flexipages",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1553344143086,
-            "changeTime": 1553344143086,
-            "contentHash": "0fcf64cf47a5cf0d595138cc8c362c0a55f914ff",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1553529160363,
+            "changeTime": 1553529160363,
+            "contentHash": "9449371776a4ea55dd913332b509168e33db260c"
         }
     ],
     [
@@ -1793,14 +1793,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\flows\\Assign_Interviewers.flow-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\flows\\Assign_Interviewers.flow-meta.xml",
             "isDirectory": false,
-            "size": 5704,
-            "modifiedTime": 1553453127467,
-            "changeTime": 1553453127467,
-            "contentHash": "cf94c69435671cc93499e86f8416927b1caaf45f",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5706,
+            "modifiedTime": 1553529160438,
+            "changeTime": 1553529160438,
+            "contentHash": "81bf688ed78b0b80ee78b83c04c28d6f6550a2bd"
         }
     ],
     [
@@ -1840,6 +1840,45 @@
             "contentHash": "d2dc3788b15deae1982f0b359140cc6b6bfb5197",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\flexipages\\Interview_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\flexipages\\Interview_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5216,
+            "modifiedTime": 1553529160368,
+            "changeTime": 1553529160368,
+            "contentHash": "ee53527d64c945274dec33521e6a6e7176f6693c"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\pathAssistants\\Hold_Interview.pathAssistant-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\pathAssistants\\Hold_Interview.pathAssistant-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1553529160483,
+            "changeTime": 1553529160483,
+            "contentHash": "cfd92edbc89568b77e0ccab4ea26514fd5ed05c8"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\pathAssistants",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\conference-rep\\conference\\force-app\\main\\default\\pathAssistants",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553529160478,
+            "changeTime": 1553529160478,
+            "contentHash": "753f89db3dc67586fa3c2856fee2c9973ac746bd"
         }
     ]
 ]
