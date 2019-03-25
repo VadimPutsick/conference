@@ -2,7 +2,7 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>Conference</application>
-        <default>true</default>
+        <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
@@ -158,6 +158,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Session__c.Topic_Technologies__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Speaker_Session__c.Email__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
