@@ -81,6 +81,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Hotel__c.Total_Cost__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Interview__c.Date__c</field>
         <readable>true</readable>
@@ -173,6 +178,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Venue__c.Address__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Venue__c.Cost__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
