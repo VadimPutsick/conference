@@ -55,8 +55,9 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Speaker Session</label>
     <nameField>
+        <displayFormat>SS-{0000}</displayFormat>
         <label>Speaker Session Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Speaker Sessions</pluralLabel>
     <searchLayouts/>

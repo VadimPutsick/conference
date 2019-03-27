@@ -17,9 +17,9 @@
                 <label>Hire</label>
             </value>
             <value>
-                <fullName>Not hire</fullName>
+                <fullName>Not Hire</fullName>
                 <default>false</default>
-                <label>Not hire</label>
+                <label>Not Hire</label>
             </value>
         </valueSetDefinition>
         <valueSettings>
@@ -28,7 +28,7 @@
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Hiring</controllingFieldValue>
-            <valueName>Not hire</valueName>
+            <valueName>Not Hire</valueName>
         </valueSettings>
     </valueSet>
 </CustomField>

@@ -24,6 +24,7 @@
     <tabs>Speaker_Session__c</tabs>
     <tabs>Session__c</tabs>
     <tabs>Feedback__c</tabs>
+    <tabs>Conference__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Conference_UtilityBar</utilityBar>
 </CustomApplication>

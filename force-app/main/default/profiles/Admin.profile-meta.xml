@@ -21,6 +21,16 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Conference__c.Attendee_Count__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Conference__c.Attendee_Limit__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Conference__c.Description__c</field>
         <readable>true</readable>
@@ -168,11 +178,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Speaker_Session__c.Email__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Speaker__c.City__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
