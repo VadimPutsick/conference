@@ -591,9 +591,9 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1553693652264,
-            "changeTime": 1553693652264,
-            "contentHash": "118175bf95095994c5143f010effc4702d4956d3",
+            "modifiedTime": 1553882100533,
+            "changeTime": 1553882100533,
+            "contentHash": "51f32a837393a527d8c6f3ebda460f3e396b121a",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1405,14 +1405,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\Session__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\Session__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2140,
             "modifiedTime": 1553879387532,
             "changeTime": 1553879387532,
-            "contentHash": "4949d76d2131e036aeb1e9884145bb6d0a448d2d"
+            "contentHash": "4949d76d2131e036aeb1e9884145bb6d0a448d2d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1697,16 +1697,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\permissionsets",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1553616359764,
-            "changeTime": 1553616830166,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1553882526841,
+            "changeTime": 1553882526841,
+            "contentHash": "86dbeed4bcd942799a6b681c69dc18f29d51b949"
         }
     ],
     [
@@ -2285,6 +2283,45 @@
             "contentHash": "8c3121bd27fa72d40a5a75c26128efff6cf30256",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1553882100548,
+            "changeTime": 1553882100548,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553882100538,
+            "changeTime": 1553882100538,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\permissionsets\\CEO_User.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\permissionsets\\CEO_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3345,
+            "modifiedTime": 1553882526838,
+            "changeTime": 1553882526838,
+            "contentHash": "4406e8e32f52d14c2788922aaff10e83ed47f1c2"
         }
     ]
 ]

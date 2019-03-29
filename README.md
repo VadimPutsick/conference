@@ -3,18 +3,12 @@
 ## Table of contents
 
 * [Installation instructions](#installation-instructions)
-    * [Installing DreamHouse using Salesforce DX](#installing-dreamhouse-using-salesforce-dx)
-    * [Installing DreamHouse using an unlocked package](#installing-dreamhouse-using-an-unlocked-package)
 * [Code highlights](#code-highlights)
 * [Additional resources](#additional-resources)
 
 ## Installation Instructions
 
-There are two ways to install DreamHouse:
-- Using Salesforce DX
-- Using an unlocked package
-
-### Installing DreamHouse using Salesforce DX
+### Installing Conference using Salesforce DX
 This is the recommended installation option for developers who want to experience the app and the code.
 
 1. Install Salesforce DX. Enable the Dev Hub in your org or sign up for a Dev Hub trial org and install the Salesforce DX CLI. Follow the instructions in the [Salesforce DX Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm?search_text=trial%20hub%20org) or in the [App Development with Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_app_dev) Trailhead module.
