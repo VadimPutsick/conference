@@ -1,0 +1,1 @@
+Total expenses for hotel booking is {!Hotel__c.Total_Cost__c}.

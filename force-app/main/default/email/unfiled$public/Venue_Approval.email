@@ -1,0 +1,1 @@
+Venue rent cost is {!Venue__c.Cost__c}.
