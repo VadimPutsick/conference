@@ -26,9 +26,9 @@
                 <label>Wait Reviews</label>
             </value>
             <value>
-                <fullName>Hiring</fullName>
+                <fullName>Accepting</fullName>
                 <default>false</default>
-                <label>Hiring</label>
+                <label>Accepting</label>
             </value>
         </valueSetDefinition>
     </valueSet>

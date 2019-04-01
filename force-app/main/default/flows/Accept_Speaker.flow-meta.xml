@@ -56,20 +56,21 @@
                         <stringValue>Picklist</stringValue>
                     </value>
                 </processMetadataValues>
-                <leftValueReference>myVariable_current.Hiring__c</leftValueReference>
+                <leftValueReference>myVariable_current.Accepting__c</leftValueReference>
                 <operator>EqualTo</operator>
                 <rightValue>
-                    <stringValue>Hire</stringValue>
+                    <stringValue>Accept</stringValue>
                 </rightValue>
             </conditions>
             <connector>
                 <targetReference>myRule_1_A1</targetReference>
             </connector>
-            <label>Speaker Is Hired</label>
+            <label>Interviewer is Accepted</label>
         </rules>
     </decisions>
-    <interviewLabel>Hire_Speaker-1_InterviewLabel</interviewLabel>
-    <label>Hire Speaker</label>
+    <description>Procces is to accept speaker for session.</description>
+    <interviewLabel>Accept_Speaker-1_InterviewLabel</interviewLabel>
+    <label>Accept Speaker</label>
     <processMetadataValues>
         <name>ObjectType</name>
         <value>
@@ -97,7 +98,7 @@
     <processType>Workflow</processType>
     <recordCreates>
         <name>myRule_1_A1</name>
-        <label>Appoint speaker to session</label>
+        <label>Create speaker session</label>
         <locationX>100</locationX>
         <locationY>200</locationY>
         <inputAssignments>

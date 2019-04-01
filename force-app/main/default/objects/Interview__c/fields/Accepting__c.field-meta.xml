@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Hiring__c</fullName>
+    <fullName>Accepting__c</fullName>
     <externalId>false</externalId>
-    <label>Hiring</label>
+    <label>Accepting</label>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
@@ -12,23 +12,25 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Hire</fullName>
+                <fullName>Accept</fullName>
+                <color>#419249</color>
                 <default>false</default>
-                <label>Hire</label>
+                <label>Accept</label>
             </value>
             <value>
-                <fullName>Not Hire</fullName>
+                <fullName>Not Accept</fullName>
+                <color>#A53711</color>
                 <default>false</default>
-                <label>Not Hire</label>
+                <label>Not Accept</label>
             </value>
         </valueSetDefinition>
         <valueSettings>
-            <controllingFieldValue>Hiring</controllingFieldValue>
-            <valueName>Hire</valueName>
+            <controllingFieldValue>Accepting</controllingFieldValue>
+            <valueName>Accept</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>Hiring</controllingFieldValue>
-            <valueName>Not Hire</valueName>
+            <controllingFieldValue>Accepting</controllingFieldValue>
+            <valueName>Not Accept</valueName>
         </valueSettings>
     </valueSet>
 </CustomField>
