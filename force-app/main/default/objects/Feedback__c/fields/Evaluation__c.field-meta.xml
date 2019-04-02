@@ -3,7 +3,7 @@
     <fullName>Evaluation__c</fullName>
     <externalId>false</externalId>
     <label>Evaluation</label>
-    <required>false</required>
+    <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
