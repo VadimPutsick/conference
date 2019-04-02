@@ -5,5 +5,5 @@
     <label>Session End</label>
     <required>false</required>
     <trackTrending>false</trackTrending>
-    <type>DateTime</type>
+    <type>Time</type>
 </CustomField>
