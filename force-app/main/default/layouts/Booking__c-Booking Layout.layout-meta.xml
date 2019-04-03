@@ -15,12 +15,12 @@
                 <field>Hotel__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
-                <field>Speaker__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Cost__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Speaker__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>

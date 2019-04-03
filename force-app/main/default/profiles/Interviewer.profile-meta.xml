@@ -97,11 +97,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Review__c.Interviewer__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Review__c.Review_Content__c</field>
         <readable>false</readable>
     </fieldPermissions>

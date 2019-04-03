@@ -3,7 +3,7 @@
     <fullName>Session_End__c</fullName>
     <externalId>false</externalId>
     <label>Session End</label>
-    <required>false</required>
+    <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Time</type>
 </CustomField>

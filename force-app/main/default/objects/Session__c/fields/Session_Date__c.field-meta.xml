@@ -3,7 +3,7 @@
     <fullName>Session_Date__c</fullName>
     <externalId>false</externalId>
     <label>Session Date</label>
-    <required>false</required>
+    <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Date</type>
 </CustomField>

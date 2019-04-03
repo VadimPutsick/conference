@@ -3,7 +3,7 @@
     <fullName>Topic_Technologies__c</fullName>
     <externalId>false</externalId>
     <label>Topic Technologies</label>
-    <required>false</required>
+    <required>true</required>
     <trackTrending>false</trackTrending>
     <type>MultiselectPicklist</type>
     <valueSet>
