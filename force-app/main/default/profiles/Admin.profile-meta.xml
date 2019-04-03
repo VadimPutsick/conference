@@ -61,6 +61,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Hotel__c.Conference__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Hotel__c.Total_Cost__c</field>
         <readable>true</readable>
@@ -68,6 +73,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Interview__c.Accepting__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Interview__c.Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -83,6 +93,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Interviewer__c.Email__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Interviewer__c.Topic_Technologies__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
