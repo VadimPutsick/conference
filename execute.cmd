@@ -1,2 +1,2 @@
-sfdx force:org:create -s -f config/project-scratch-def.json -a conference-final
+sfdx force:source:pull -u test-nk5sf8lpch7w@example.com
 sfdx force:source:push
