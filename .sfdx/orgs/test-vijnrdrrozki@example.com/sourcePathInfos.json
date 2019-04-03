@@ -1872,14 +1872,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\fields\\Topic_Technologies__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\fields\\Topic_Technologies__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 504,
             "modifiedTime": 1554335188755,
             "changeTime": 1554335188755,
-            "contentHash": "32978824ffded5313236d86884858c548cdc6527"
+            "contentHash": "32978824ffded5313236d86884858c548cdc6527",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -2332,14 +2332,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1554334236130,
-            "changeTime": 1554334236130,
-            "contentHash": "bd41fe391e6f9cce3995a21c124b0efdffd53c4c",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1554334780444,
+            "changeTime": 1554334780444,
+            "contentHash": "d87f3229ca45ed771becf419a5f54aa68a6413fc"
         }
     ],
     [
@@ -2349,10 +2349,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 30102,
-            "modifiedTime": 1554335189471,
-            "changeTime": 1554335189471,
-            "contentHash": "c65fd0124e2eeac99f8718f966a045be919b0ab8"
+            "size": 29941,
+            "modifiedTime": 1554335567205,
+            "changeTime": 1554335567205,
+            "contentHash": "d302ecf1a9ea87876484cfbfa11f417c48e3ce08"
         }
     ],
     [
@@ -2362,10 +2362,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\CEO.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 13696,
-            "modifiedTime": 1554335189184,
-            "changeTime": 1554335189184,
-            "contentHash": "e298bc79991a6d2c52bf162d867be1f3f2eeb868"
+            "size": 13533,
+            "modifiedTime": 1554335564283,
+            "changeTime": 1554335564283,
+            "contentHash": "7bc402a07b576dc555325ff7e6afa4dd6f514f6e"
         }
     ],
     [
@@ -2375,10 +2375,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Interviewer.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 13359,
-            "modifiedTime": 1554335189294,
-            "changeTime": 1554335189294,
-            "contentHash": "6aafc922e3bb7a0af6dd7ca557d3403c838dd5b9"
+            "size": 13196,
+            "modifiedTime": 1554335583656,
+            "changeTime": 1554335583656,
+            "contentHash": "3348203a37c3f6287a30c893e7c4c76b2ed99296"
         }
     ],
     [
@@ -2388,10 +2388,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Organizer.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 16363,
-            "modifiedTime": 1554335188848,
-            "changeTime": 1554335188848,
-            "contentHash": "6089bff0a1a0840acce7841a6f8739e3b77c3837"
+            "size": 16200,
+            "modifiedTime": 1554335592470,
+            "changeTime": 1554335592470,
+            "contentHash": "e61849c479d2111bef09c79f6009c17124d1a68f"
         }
     ],
     [

@@ -62,11 +62,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Hotel__c.Conference__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Hotel__c.Total_Cost__c</field>
         <readable>false</readable>
     </fieldPermissions>
