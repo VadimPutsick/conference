@@ -15,10 +15,6 @@
                 <field>Address__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Conference__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>Total_Cost__c</field>
             </layoutItems>
