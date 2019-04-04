@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Start_After_End</fullName>
+    <active>true</active>
+    <errorConditionFormula>Session_Start__c &gt;  Session_End__c</errorConditionFormula>
+    <errorDisplayField>Session_Start__c</errorDisplayField>
+    <errorMessage>Start of the session must be before the end.</errorMessage>
+</ValidationRule>
