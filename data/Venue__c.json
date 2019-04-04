@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Venue__c",
+                "referenceId": "Venue__cRef1"
+            },
+            "Address__c": "3400 Paradise Rd, Las Vegas, NV 89169, USA",
+            "Name": "Renaissance Las Vegas Hotel, Las Vegas, USA",
+            "Cost__c": 20000
+        }
+    ]
+}

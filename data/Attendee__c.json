@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Attendee__c",
+                "referenceId": "Attendee__cRef1"
+            },
+            "Name": "Arthur Song",
+            "Email__c": "asong@uog.com"
+        },
+        {
+            "attributes": {
+                "type": "Attendee__c",
+                "referenceId": "Attendee__cRef2"
+            },
+            "Name": "Avi Green",
+            "Email__c": "agreen@uog.com"
+        },
+        {
+            "attributes": {
+                "type": "Attendee__c",
+                "referenceId": "Attendee__cRef3"
+            },
+            "Name": "Edna Frank",
+            "Email__c": "efrank@genepoint.com"
+        },
+        {
+            "attributes": {
+                "type": "Attendee__c",
+                "referenceId": "Attendee__cRef4"
+            },
+            "Name": "Babara Levy",
+            "Email__c": "b.levy@expresslt.net"
+        },
+        {
+            "attributes": {
+                "type": "Attendee__c",
+                "referenceId": "Attendee__cRef5"
+            },
+            "Name": "Jack Rogers",
+            "Email__c": "jrogers@burlington.com"
+        },
+        {
+            "attributes": {
+                "type": "Attendee__c",
+                "referenceId": "Attendee__cRef6"
+            },
+            "Name": "Ashley James",
+            "Email__c": "ajames@uog.com"
+        }
+    ]
+}

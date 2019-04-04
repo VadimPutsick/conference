@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Conference__c",
+                "referenceId": "Conference__cRef1"
+            },
+            "Attendee_Limit__c": 40,
+            "Name": "International Conference on IT & Computer Science",
+            "Description__c": "<p><span style=\"font-size: 15px; font-family: Roboto, sans-serif; color: rgb(51, 51, 51);\">The International Conference on IT &amp; Computer Science aims to provide an opportunity and platform to channelize the various multidimensional and multidisciplinary streams of IT and Computer Science and it covers the areas of all computers and computational systems associated dimensions, mostly software and software systems, efficient programmable logic data and mathematical algorithms, and much more.</span></p>",
+            "End_Date__c": "2019-04-09T19:00:00.000+0000",
+            "Start_Date__c": "2019-04-04T19:00:00.000+0000",
+            "Topic__c": "Education & Training  IT & Technology"
+        }
+    ]
+}

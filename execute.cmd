@@ -1,2 +1,1 @@
-sfdx force:source:pull -u test-nk5sf8lpch7w@example.com
-sfdx force:source:push
+sfdx force:source:push -u  test-vijnrdrrozki@example.com
