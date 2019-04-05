@@ -10,7 +10,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Conference</label>
     <navType>Standard</navType>
-    <tabs>Attendee__c</tabs>
+    <tabs>Participant__c</tabs>
     <tabs>Booking__c</tabs>
     <tabs>Speaker__c</tabs>
     <tabs>Hotel__c</tabs>

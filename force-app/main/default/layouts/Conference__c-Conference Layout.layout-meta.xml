@@ -24,11 +24,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>Attendee_Count__c</field>
+                <field>Participant_Count__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Attendee_Limit__c</field>
+                <field>Participant_Limit__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
