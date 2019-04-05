@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Hotel__c",
+                "referenceId": "Hotel__cRef1"
+            },
+            "Address__c": "3645 Las Vegas Blvd S, NV 89109-4321",
+            "Name": "Bally's Las Vegas Hotel & Casino"
+        }
+    ]
+}

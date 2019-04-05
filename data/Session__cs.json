@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Session__c",
+                "referenceId": "Session__cRef1"
+            },
+            "Name": "How to Specialize and Expand Your Business into New Technical Markets",
+            "Session_Date__c": "2019-04-05",
+            "Session_End__c": "02:00:00.000Z",
+            "Session_Start__c": "00:00:00.000Z",
+            "Session_Thesis__c": "Technical translators need long-term strategies for transitioning their businesses to new fields as translation markets emerge and wane. Many of us also have been, or will eventually be, affected by factors such as the increased use of new machine translation approaches, changing patent translation requirements, or downturns in the economy of our source and/or target countries. In this session, the panelists will discuss how their client bases, specializations, and working language pairs have evolved throughout their careers.",
+            "Topic_Technologies__c": "Data",
+            "Conference__c": "@Conference__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Session__c",
+                "referenceId": "Session__cRef2"
+            },
+            "Name": "Sharpen Your Scientific Writing Skills (098)",
+            "Session_Date__c": "2019-04-05",
+            "Session_End__c": "04:30:00.000Z",
+            "Session_Start__c": "03:00:00.000Z",
+            "Session_Thesis__c": "Scientific and technical clients appreciate texts that can be understood on the first reading. This session will focus on skills that scientific translators and editors can use to produce texts that flow smoothly. The speaker will discuss ways to express ideas clearly, concisely, and in the order a reader expects them. Topics will include the use of verb tenses and voices (e.g., active versus passive) to express meaning and the use of punctuation for clarity. Attendees will also benefit from a list of resources recommended by the speaker.",
+            "Topic_Technologies__c": "Security;Analyse;Salesforce",
+            "Conference__c": "@Conference__cRef1"
+        }
+    ]
+}
