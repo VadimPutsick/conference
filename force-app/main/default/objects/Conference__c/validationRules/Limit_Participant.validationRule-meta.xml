@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Limit_Attendees</fullName>
+    <fullName>Limit_Participant</fullName>
     <active>true</active>
     <description>Rule is to limit quantity of attendees.</description>
-    <errorConditionFormula>Attendee_Count__c &gt;  Attendee_Limit__c</errorConditionFormula>
-    <errorDisplayField>Attendee_Limit__c</errorDisplayField>
+    <errorConditionFormula>Participant_Count__c &gt;  Participant_Limit__c</errorConditionFormula>
+    <errorDisplayField>Participant_Limit__c</errorDisplayField>
     <errorMessage>Quantity of attendees must not exceed seted limit.</errorMessage>
 </ValidationRule>

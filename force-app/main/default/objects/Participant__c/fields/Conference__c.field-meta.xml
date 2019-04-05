@@ -4,8 +4,7 @@
     <externalId>false</externalId>
     <label>Conference</label>
     <referenceTo>Conference__c</referenceTo>
-    <relationshipLabel>Conference</relationshipLabel>
-    <relationshipName>Attendees</relationshipName>
+    <relationshipName>Participants</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackTrending>false</trackTrending>

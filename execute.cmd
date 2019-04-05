@@ -1,1 +1,2 @@
-sfdx force:source:push -u  test-vijnrdrrozki@example.com
+sfdx force:data:tree:import --sobjecttreefiles data/Venue__c.json -u test-vijnrdrrozki@example.com^
+ & sfdx force:data:tree:import --sobjecttreefiles data/Conference__c-Attendee__c.json -u test-vijnrdrrozki@example.com

@@ -35,13 +35,11 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554322688866,
-            "changeTime": 1554322688866,
-            "contentHash": "4be1b6ea762b3d97dade74fa6aa8a822d7d6aef1",
+            "modifiedTime": 1554490579686,
+            "changeTime": 1554490579686,
+            "contentHash": "9c826970ea4bc09171b0100a0fb45f19ab7301d4",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -380,28 +378,11 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554322688949,
-            "changeTime": 1554322688949,
-            "contentHash": "08fd36671b3047356be9ee53659afd6dba14d104",
+            "modifiedTime": 1554490579779,
+            "changeTime": 1554490579779,
+            "contentHash": "8f4ad2870f215b14f8814b708398e272a640da80",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Attendee__c-Attendee Layout.layout-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Attendee__c-Attendee Layout.layout-meta.xml",
-            "isDirectory": false,
-            "size": 2779,
-            "modifiedTime": 1554232692643,
-            "changeTime": 1554232692643,
-            "contentHash": "4cf97507a4a8571f8a5ed4c1fde4bad7aa9db353",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -527,14 +508,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Session__c-Session Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Session__c-Session Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4028,
             "modifiedTime": 1554366729687,
             "changeTime": 1554366729687,
-            "contentHash": "4d0c9071838333152062822d7f4e65969fc7ac61"
+            "contentHash": "4d0c9071838333152062822d7f4e65969fc7ac61",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -588,13 +569,11 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554232693367,
-            "changeTime": 1554232693367,
-            "contentHash": "6d9475b30c9142977b2a7858262812060b5f98fb",
+            "modifiedTime": 1554490579623,
+            "changeTime": 1554490579623,
+            "contentHash": "a26bdfc6a2c5deda3f27c313205c9f1649c13d68",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -607,21 +586,6 @@
             "changeTime": 1554322688964,
             "contentHash": "d6c666f4b052a85a6ad4db24ccfb03945927cdad",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\Attendee__c.object-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\Attendee__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 2144,
-            "modifiedTime": 1554232692690,
-            "changeTime": 1554232692690,
-            "contentHash": "a604444b8bb17be714e7d943966e3f6c1c57c5e1",
-            "isMetadataFile": true,
             "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -643,36 +607,6 @@
         }
     ],
     [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\fields\\Conference__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\fields\\Conference__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 610,
-            "modifiedTime": 1554232692690,
-            "changeTime": 1554232692690,
-            "contentHash": "3f1da108d672f2282c2aca4e7f5a0b0240b2109a",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\fields\\Email__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\fields\\Email__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 331,
-            "modifiedTime": 1554322688963,
-            "changeTime": 1554322688963,
-            "contentHash": "dd9fa51166357520843f7f56f308b3bbf5a39359",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\listViews",
         {
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\listViews",
@@ -682,21 +616,6 @@
             "changeTime": 1554322688965,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\listViews\\All.listView-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Attendee__c\\listViews\\All.listView-meta.xml",
-            "isDirectory": false,
-            "size": 232,
-            "modifiedTime": 1554322688967,
-            "changeTime": 1554322688967,
-            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
-            "isMetadataFile": true,
             "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -858,43 +777,11 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554322688996,
-            "changeTime": 1554322688996,
-            "contentHash": "941b55a8661913808ba42c95d3518d6a14c2416b",
+            "modifiedTime": 1554491056901,
+            "changeTime": 1554491056901,
+            "contentHash": "d9c8fa99c95da115addd9c43ef12584e91280877",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Attendee_Count__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Attendee_Count__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 410,
-            "modifiedTime": 1554232692721,
-            "changeTime": 1554232692721,
-            "contentHash": "a7923f52548e7e04700a667d803410b0abdd77c4",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Attendee_Limit__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Attendee_Limit__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 437,
-            "modifiedTime": 1554322688983,
-            "changeTime": 1554322688983,
-            "contentHash": "acff0b28eeb31fa9462f2258d21c02f62315ae63",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1005,31 +892,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\validationRules",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\validationRules",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1554232692737,
-            "changeTime": 1554232692737,
-            "contentHash": "fb3788fbe3e8f1f9baa2fb2cd83b467c847d06b7",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\validationRules\\Limit_Attendees.validationRule-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\validationRules\\Limit_Attendees.validationRule-meta.xml",
-            "isDirectory": false,
-            "size": 498,
-            "modifiedTime": 1554232692737,
-            "changeTime": 1554232692737,
-            "contentHash": "861fc95a0d6884549b1b40fd597550f6813434d9",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1554491542940,
+            "changeTime": 1554491542940,
+            "contentHash": "6f537efada8f648ba14879e34d64bb542e05e4c7"
         }
     ],
     [
@@ -1770,14 +1640,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554366729625,
             "changeTime": 1554366729625,
-            "contentHash": "851a2f669473444e45b353014fc3d79e8e8e2285"
+            "contentHash": "851a2f669473444e45b353014fc3d79e8e8e2285",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2326,13 +2196,11 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554323633649,
-            "changeTime": 1554323633649,
-            "contentHash": "d87f3229ca45ed771becf419a5f54aa68a6413fc",
+            "modifiedTime": 1554491057276,
+            "changeTime": 1554491057276,
+            "contentHash": "bd41fe391e6f9cce3995a21c124b0efdffd53c4c",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -2340,29 +2208,12 @@
         {
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 30102,
-            "modifiedTime": 1554323633653,
-            "changeTime": 1554323633653,
-            "contentHash": "c65fd0124e2eeac99f8718f966a045be919b0ab8",
+            "size": 29624,
+            "modifiedTime": 1554491057370,
+            "changeTime": 1554491057370,
+            "contentHash": "59eaba83b06cce8f5b4c5d96e0bf30faef33fd71",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\CEO.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\CEO.profile-meta.xml",
-            "isDirectory": false,
-            "size": 13683,
-            "modifiedTime": 1554322689101,
-            "changeTime": 1554322689101,
-            "contentHash": "e8b7db374f5c00f59805dd85071eea908c1a7c18",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -2370,14 +2221,12 @@
         {
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Interviewer.profile-meta.xml",
             "isDirectory": false,
-            "size": 13876,
-            "modifiedTime": 1554322689104,
-            "changeTime": 1554322689104,
-            "contentHash": "543ca65e4f16ef5034a5d9901d2640a222874b3e",
+            "size": 12872,
+            "modifiedTime": 1554491057245,
+            "changeTime": 1554491057245,
+            "contentHash": "fa2da0b8000cdda51cfba33d740a79b7689b22c8",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -2385,14 +2234,12 @@
         {
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Organizer.profile-meta.xml",
             "isDirectory": false,
-            "size": 15864,
-            "modifiedTime": 1554322689108,
-            "changeTime": 1554322689108,
-            "contentHash": "995ec8c296a01987e1e6f8bbad823bcb5acb510c",
+            "size": 15881,
+            "modifiedTime": 1554491057198,
+            "changeTime": 1554491057198,
+            "contentHash": "5899fe5eb671381e55dd61b1f209c00ce4425506",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -2461,28 +2308,11 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554232693519,
-            "changeTime": 1554232693519,
-            "contentHash": "ec8277a9ac5914ad6d764795f7d76a6dc18c681c",
+            "modifiedTime": 1554490579779,
+            "changeTime": 1554490579779,
+            "contentHash": "3dec0d6464d1e05ad99dffc6d5c7671203b9c85f",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\tabs\\Attendee__c.tab-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\tabs\\Attendee__c.tab-meta.xml",
-            "isDirectory": false,
-            "size": 219,
-            "modifiedTime": 1554232693481,
-            "changeTime": 1554232693481,
-            "contentHash": "6bec0e156101e8c19d948fcab0748b4743833eca",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -2773,27 +2603,248 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\validationRules\\Start_After_End.validationRule-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\validationRules\\Start_After_End.validationRule-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 416,
             "modifiedTime": 1554366729656,
             "changeTime": 1554366729656,
-            "contentHash": "924e673ab0c746f76a658105e74297131d111499"
+            "contentHash": "924e673ab0c746f76a658105e74297131d111499",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\validationRules",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Session__c\\validationRules",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554366729640,
             "changeTime": 1554366729640,
-            "contentHash": "434a24cf57a1355b3c62a1c29e3fa5c65421413a"
+            "contentHash": "434a24cf57a1355b3c62a1c29e3fa5c65421413a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\Participant__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\Participant__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2153,
+            "modifiedTime": 1554490579639,
+            "changeTime": 1554490579639,
+            "contentHash": "d8279bbfe34fabb0a5ebe2efe0bd370bc9c2cc35",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\fields\\Conference__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\fields\\Conference__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 556,
+            "modifiedTime": 1554490579639,
+            "changeTime": 1554490579639,
+            "contentHash": "bf6ad707eb43ed75ed0abf68496d921e8201bf0d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 331,
+            "modifiedTime": 1554490579654,
+            "changeTime": 1554490579654,
+            "contentHash": "dd9fa51166357520843f7f56f308b3bbf5a39359",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1554490579654,
+            "changeTime": 1554490579654,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Participant__c-Attendee Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Participant__c-Attendee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2779,
+            "modifiedTime": 1554490579670,
+            "changeTime": 1554490579670,
+            "contentHash": "4cf97507a4a8571f8a5ed4c1fde4bad7aa9db353",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\tabs\\Participant__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\tabs\\Participant__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1554490579686,
+            "changeTime": 1554490579686,
+            "contentHash": "6bec0e156101e8c19d948fcab0748b4743833eca",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US\\Participant__c-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US\\Participant__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1554490579701,
+            "changeTime": 1554490579701,
+            "contentHash": "b7b1c31eb8f391fb503109a858514ab8bee468bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US\\Conference__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US\\Conference__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 273,
+            "modifiedTime": 1554490579701,
+            "changeTime": 1554490579701,
+            "contentHash": "6875e899f9ec87e54bc0160a8038d5d63144c570",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US\\Email__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US\\Email__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1554490579717,
+            "changeTime": 1554490579717,
+            "contentHash": "1bee79c399d264f3a3243169246b03c6451416c3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554490579654,
+            "changeTime": 1554490579654,
+            "contentHash": "617e0a11713dd2a53dde83f7f273b0645260900b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554490579639,
+            "changeTime": 1554490579639,
+            "contentHash": "786b2cdda4d52c902d086386ae5cd0e2ee6235b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Participant__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554490579654,
+            "changeTime": 1554490579654,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations\\Participant__c-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554490579701,
+            "changeTime": 1554490579701,
+            "contentHash": "02f7408ee9c9a29b40acf17551cb58d979f8231b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554490579686,
+            "changeTime": 1554490579686,
+            "contentHash": "71b0c5c970fc29f4fbf0bd07d68da39d0d62d223",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Participant_Count__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Participant_Count__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 419,
+            "modifiedTime": 1554491056901,
+            "changeTime": 1554491056901,
+            "contentHash": "41e39a55eee0025cea4315e37b78db35da7aafa4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Participant_Limit__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\fields\\Participant_Limit__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1554491056917,
+            "changeTime": 1554491056917,
+            "contentHash": "2afe0b837bcd6bd7347965b25203ae815a74db71",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\validationRules\\Limit_Participant.validationRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\objects\\Conference__c\\validationRules\\Limit_Participant.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1554491542955,
+            "changeTime": 1554491542955,
+            "contentHash": "b9c3a39354db78e00d4db6e0c57d43bf42495145"
         }
     ]
 ]

@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Speaker__c",
+                "referenceId": "Speaker__cRef1"
+            },
+            "Name": "Lauren Boyle",
+            "Email__c": "lboyle@uog.com",
+            "City__c": "New York"
+        },
+        {
+            "attributes": {
+                "type": "Speaker__c",
+                "referenceId": "Speaker__cRef2"
+            },
+            "Name": "Liz D'Cruz",
+            "Email__c": "ldcruz@uog.com",
+            "City__c": "New York"
+        }
+    ]
+}
