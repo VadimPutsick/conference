@@ -32,14 +32,14 @@
     [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554544719796,
             "changeTime": 1554544719796,
-            "contentHash": "15082508eca48e632b6626cd117c2601920953d3"
+            "contentHash": "15082508eca48e632b6626cd117c2601920953d3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2132,7 +2132,7 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1554542751425,
+            "modifiedTime": 1554557653001,
             "changeTime": 1554542751425,
             "contentHash": "d87f3229ca45ed771becf419a5f54aa68a6413fc",
             "isMetadataFile": false,
@@ -2863,7 +2863,7 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\CEO.profile-meta.xml",
             "isDirectory": false,
             "size": 13630,
-            "modifiedTime": 1554543163346,
+            "modifiedTime": 1554557771254,
             "changeTime": 1554543163346,
             "contentHash": "7600ee6434993822c03aafe924412bd685483772",
             "isMetadataFile": true,
@@ -2877,10 +2877,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\approvalProcesses\\Venue__c.Venue_Approval.approvalProcess-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 1160,
-            "modifiedTime": 1554544719812,
-            "changeTime": 1554544719812,
-            "contentHash": "d2eb3082bf28cd1df6e276659cef6911f3d96fe4"
+            "size": 1159,
+            "modifiedTime": 1554559286771,
+            "changeTime": 1554559286771,
+            "contentHash": "5308836db4fe60251923d95ba056a2bed101c0f3"
         }
     ],
     [
@@ -2891,9 +2891,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554544719812,
-            "changeTime": 1554544719812,
-            "contentHash": "80edd1697b4e69db99241710e5a323bbef8b4e76"
+            "modifiedTime": 1554559286779,
+            "changeTime": 1554559286779,
+            "contentHash": "2e885b9d4205ffd5eaafb5e4b42307e3987fa730"
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\approvalProcesses\\Hotel__c.Hotel_Approval.approvalProcess-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\approvalProcesses\\Hotel__c.Hotel_Approval.approvalProcess-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1159,
+            "modifiedTime": 1554559286782,
+            "changeTime": 1554559286782,
+            "contentHash": "88920c4ee8b167253b6e40647069646009c3d191"
         }
     ]
 ]

@@ -21,11 +21,11 @@
         <label>Step 1</label>
         <name>Step_1</name>
     </approvalStep>
-    <emailTemplate>unfiled$public/Venue_Approval</emailTemplate>
+    <emailTemplate>unfiled$public/Hotel_Approval</emailTemplate>
     <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
     <finalApprovalRecordLock>true</finalApprovalRecordLock>
     <finalRejectionRecordLock>false</finalRejectionRecordLock>
-    <label>Venue Approval</label>
+    <label>Hotel Approval</label>
     <recordEditability>AdminOnly</recordEditability>
     <showApprovalHistory>true</showApprovalHistory>
 </ApprovalProcess>
