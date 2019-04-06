@@ -19,28 +19,13 @@ This is the recommended installation option for developers who want to experienc
     cd conference
     ```
 
-1. Create a scratch org and provide it with an alias of your choice (**conference-final** in the command below):
+1. Build project in new scratch org:
     ```
-    sfdx force:org:create -s -f config/project-scratch-def.json -a conference-final
+    execute
     ```
-
-1. Push the app to your scratch org:
-    ```
-    sfdx force:source:push
-    ```
-
-1. Assign the **conference** permission set to the default user:
-    ```
-    sfdx force:user:permset:assign -n Conference
-    ```
-
 1. Open the scratch org:
     ```
     sfdx force:org:open
     ```
 
 1. Select **Coonference** in the App Launcher
-
-1. Click the **Data Import** tab and click **Initialize Sample Data**
-
-### Installing DreamHouse using an unlocked package
