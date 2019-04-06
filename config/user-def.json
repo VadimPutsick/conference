@@ -1,0 +1,12 @@
+	{
+        "Username": "tuywert2019@mail.ru",
+        "FirstName": "Petr",
+	    "LastName": "Petrovich",
+	    "Email": "tuywert@mail.ru",
+	    "Alias": "tester1",
+	    "LocaleSidKey": "en_US",
+	    "EmailEncodingKey": "UTF-8",
+	    "LanguageLocaleKey": "en_US",
+	    "profileName": "CEO",
+	    "generatePassword": true
+	}
