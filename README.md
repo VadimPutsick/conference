@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Installation instructions](#installation-instructions)
-* [Code highlights](#code-highlights)
+* [Interviewers Assignment](#interviewers-assignment)
 * [Additional resources](#additional-resources)
 
 ## Installation Instructions
@@ -28,4 +28,16 @@ This is the recommended installation option for developers who want to experienc
     sfdx force:org:open
     ```
 
-1. Select **Coonference** in the App Launcher
+1. Select **Conference** in the App Launcher
+
+## Interviewers Assignment
+### Assign interviewers in Conference app.
+Here’s how to assign interviewers in Conference app:
+
+1. Create new Interview.
+
+![alt text](https://github.com/VadimPutsick/conference/tree/master/instruction/create-interview.png)
+
+1. Check assigned interviewers.
+
+![alt text](https://github.com/VadimPutsick/conference/tree/master/instruction/check-assigned-interviewers.png)
