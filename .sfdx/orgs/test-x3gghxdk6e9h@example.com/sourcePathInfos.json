@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554544719796,
-            "changeTime": 1554544719796,
-            "contentHash": "15082508eca48e632b6626cd117c2601920953d3",
+            "modifiedTime": 1554569659088,
+            "changeTime": 1554569659088,
+            "contentHash": "d58e741c3603c06f3a497b13967486a3d6a7f981",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -666,10 +666,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\layouts\\Speaker__c-Speaker Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 3181,
-            "modifiedTime": 1553615412558,
-            "changeTime": 1553615412558,
-            "contentHash": "c055a994c08f34395f862645d2a49ffb4a0c9854",
+            "size": 3553,
+            "modifiedTime": 1554571781030,
+            "changeTime": 1554571781030,
+            "contentHash": "98e676ee14972b25a839352327e869e882f3e095",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2475,6 +2475,21 @@
         }
     ],
     [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554570417008,
+            "changeTime": 1554570417008,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profilePasswordPolicies",
         {
             "state": "n",
@@ -2482,9 +2497,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554494146178,
-            "changeTime": 1554494146178,
-            "contentHash": "1bfaa6e77b53c0ea2184a79657bc2ee874f9d0b1",
+            "modifiedTime": 1554569659104,
+            "changeTime": 1554569659104,
+            "contentHash": "008c61d0048ee39d07867cf3bda4cb5bd59c8522",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2520,6 +2535,21 @@
         }
     ],
     [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1554569582645.profilePasswordPolicy-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1554569582645.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 632,
+            "modifiedTime": 1554569659104,
+            "changeTime": 1554569659104,
+            "contentHash": "e4326bb1a1bf01c5ba204cb0fba5919606333b8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles",
         {
             "state": "n",
@@ -2541,10 +2571,10 @@
             "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 29624,
-            "modifiedTime": 1554491057370,
-            "changeTime": 1554491057370,
-            "contentHash": "59eaba83b06cce8f5b4c5d96e0bf30faef33fd71",
+            "size": 29617,
+            "modifiedTime": 1554569659088,
+            "changeTime": 1554569659088,
+            "contentHash": "27ac6cddad3cb8774d9865c4068426a5bdaa3247",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2602,9 +2632,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554494140900,
-            "changeTime": 1554494140900,
-            "contentHash": "9a12643472079ecd90071709b5b48c7bc0ee9246",
+            "modifiedTime": 1554569659104,
+            "changeTime": 1554569659104,
+            "contentHash": "9b9b0556d2066c2eb769f201e8d0d917bac0c4a9",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2635,6 +2665,21 @@
             "modifiedTime": 1554219919434,
             "changeTime": 1554219919434,
             "contentHash": "434501d78c6cdc6cd8d61c7bb2e0bc46a4d03be3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1554569582726.profileSessionSetting-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vadim\\Desktop\\CONFERENCE_REP\\conference\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1554569582726.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 432,
+            "modifiedTime": 1554569659104,
+            "changeTime": 1554569659104,
+            "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2992,9 +3037,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554469428250,
-            "changeTime": 1554469428250,
-            "contentHash": "7ce5b83090a9bbb8f2c0c2954544990e3e299b7c",
+            "modifiedTime": 1554565591926,
+            "changeTime": 1554565591926,
+            "contentHash": "ba2a42a93abdaca5d897caa908684c2885b26109",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
