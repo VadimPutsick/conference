@@ -2,7 +2,7 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>Conference</application>
-        <default>false</default>
+        <default>true</default>
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
@@ -289,7 +289,7 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Interview_Interviewer__c</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Interview__c</tab>
@@ -313,7 +313,7 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Speaker_Session__c</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Speaker__c</tab>

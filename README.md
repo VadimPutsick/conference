@@ -4,7 +4,7 @@
 
 * [Installation instructions](#installation-instructions)
 * [Interviewers Assignment](#interviewers-assignment)
-* [Additional resources](#additional-resources)
+* [Accept Speaker](#accept-speaker)
 
 ## Installation Instructions
 
@@ -31,6 +31,7 @@ This is the recommended installation option for developers who want to experienc
 1. Select **Conference** in the App Launcher
 
 ## Interviewers Assignment
+
 ### Assign interviewers in Conference app.
 Here’s how to assign interviewers in Conference app:
 
@@ -39,5 +40,19 @@ Here’s how to assign interviewers in Conference app:
 ![alt text](https://github.com/VadimPutsick/conference/tree/master/instruction/create-interview.png)
 
 1. Check assigned interviewers.
+
+![alt text](https://github.com/VadimPutsick/conference/tree/master/instruction/check-assigned-interviewers.png)
+
+## Accept Speaker
+
+### Accept speakers in Conference app.
+Here’s how to accept potential speaker as a speaker at the conference:
+
+1. Open Interview. On the path moving to the last stage "Accepting". Then in opened window in picklist "Accepting" 
+choice value "Accept".
+
+![alt text](https://github.com/VadimPutsick/conference/tree/master/instruction/create-interview.png)
+
+1. Move on to interviewed Speaker. Check new related session.
 
 ![alt text](https://github.com/VadimPutsick/conference/tree/master/instruction/check-assigned-interviewers.png)
